@@ -94,6 +94,12 @@
 		0A6C4C7227FD62170097D751 /* PungDeong */ = {
 			isa = PBXGroup;
 			children = (
+				0A6C4C9D27FD68680097D751 /* LogIn */,
+				0A6C4C9E27FD68710097D751 /* Main */,
+				0A6C4C9F27FD688D0097D751 /* Test */,
+				0A6C4CA027FD68990097D751 /* TestResult */,
+				0A6C4CA127FD68B40097D751 /* TestDescription */,
+				0A6C4CA227FD68C00097D751 /* Settings */,
 				0A6C4C7327FD62170097D751 /* PungDeongApp.swift */,
 				0A6C4C7527FD62170097D751 /* ContentView.swift */,
 				0A6C4C7727FD62180097D751 /* Assets.xcassets */,
@@ -125,6 +131,48 @@
 				0A6C4C9027FD62180097D751 /* PungDeongUITestsLaunchTests.swift */,
 			);
 			path = PungDeongUITests;
+			sourceTree = "<group>";
+		};
+		0A6C4C9D27FD68680097D751 /* LogIn */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LogIn;
+			sourceTree = "<group>";
+		};
+		0A6C4C9E27FD68710097D751 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		0A6C4C9F27FD688D0097D751 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		0A6C4CA027FD68990097D751 /* TestResult */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TestResult;
+			sourceTree = "<group>";
+		};
+		0A6C4CA127FD68B40097D751 /* TestDescription */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TestDescription;
+			sourceTree = "<group>";
+		};
+		0A6C4CA227FD68C00097D751 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
