@@ -9,6 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        //
+        // 123141214
+        // 안녕하세요
         Text("Hello, world!")
             .padding()
     }
